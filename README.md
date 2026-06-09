@@ -13,5 +13,5 @@ Hi, I’m Mihajlo Raspopović. I’m a developer who enjoys building web applica
 [![](https://visitcount.itsvg.in/api?id=mihajloraspopovic&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# ♾️ N8n Stats:
+# ♾️ N8N Stats:
 ![n8n Stats](https://raw.githubusercontent.com/mihajloraspopovic/n8n-templates/main/n8n-stats.svg)
